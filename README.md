@@ -20,6 +20,7 @@ The project emphasizes the importance of understanding the data before diving in
 
 ## Project Files
 
-### HR_Analytics_Dashboard.pbix: The Power BI project file containing the complete dashboard design and visualizations. 
+### HR Analytics Dashboard: The Power BI project file containing the complete dashboard design and visualizations. 
 ![HR Analytics Dashboard(image)](https://github.com/KishanGangarama/HR-Analytics/assets/112736041/6a58dfea-a0f5-40a2-a0a3-de072aeab115)
-### data_file.csv: The dataset used for creating the HR Analytics Dashboard. You can download and use this file for practice purposes.
+### HR Data: The dataset used for creating the HR Analytics Dashboard.
+![HRDatavalues](https://github.com/KishanGangarama/HR-Analytics/assets/112736041/5de2c36f-c821-4353-8519-1b6eb5339bdc)
